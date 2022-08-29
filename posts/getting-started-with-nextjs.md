@@ -1,57 +1,33 @@
 ---
-title: Getting Started with NextJS
-date: '2022-10-15'
-image: 'getting-started-nextjs.png'
-excerpt: 'Lorem markdownum erat poteras signa: Haemum a omnibus nostraque? Mactatos et
-honorem egesto, quaque me super pars animae; ut sanguis.'
+title: 'Getting Started with NextJS'
+date: '2022-10-16'
+image: getting-started-nextjs.png
+excerpt: NextJS is a the React framework for production - it makes building fullstack React apps and sites a breeze and ships with built-in SSR.
 isFeatured: true
 ---
 
-# Lateantque gradibus
+NextJS is a **framework for ReactJS**.
 
-## Opifex pedesque
+Wait a second ... a "framework" for React? Isn't React itself already a framework for JavaScript?
 
-Cum utroque fiunt formamque necem aliena amor; amori mihi, hic Iolen. Leucada
-accusasse aurea. Non aliis quod rogantem: pendere Sithon nitentibus costis
-viventia hoste, incubuitque [Iovem](http://www.mater.org/telo), timentem laborem
-in.
+Well ... first of all, React is a "library" for JavaScript. That seems to be important for some people.
 
-> Quia et mater; umbras tu feminea **avertite formosus quantum** haberet pedes
-> nec male. Fluctibus diripuit erat pro acuta relatu.
+Not for me, but still, there is a valid point: React already is a framework / library for JavaScript. So it's already an extra layer on top of JS.
 
-## Lupi tabellae derecti noxque spectacula terga in
+## Why would we then need NextJS?
 
-Lorem markdownum erat poteras signa: Haemum a omnibus nostraque? Mactatos et
-honorem egesto, quaque me super pars animae; ut sanguis. Acheloides fonte
-multaque armenti squalentia trahens pressa: urit ripis timido posuerunt corpore,
-est domus. Senex et Pergama in obstrusaque esse supplevit siquid dedit; *partus
-agat*: gregesque Saturnia inroravit lacerto erat: vultu. Totiens micante potes,
-sic novavit auxilium illa.
+Because NextJS makes building React apps easier - especially React apps that should have server-side rendering (though it does way more than just take care of that).
 
-Cum carebat cantat. Tua nec derexit [esto](http://umerique.net/): illud nec
-quaque **sine tempore solis** rebus quoque queat et quique.
+In this article, we'll dive into the core concepts and features NextJS has to offer:
 
-> Et altam aes ante crescunt cruorem certa manebunt, modo? Deum colla vocato
-> dolor rependis, et dicam. Absumere possunt mavult collaque madidos, iuvenes
-> per caret iacet calathis vicibus, quem fratris revelli eripe quodcumque
-> sensit. Celat inque maiora membris et vestem colla umeri pronepos maduisse
-> tulerat luxit morte. Nempe Avernales **inque**, immo ubi laetitiam atque
-> furores enim, nil?
+- File-based Routing
+- Built-in Page Pre-rendering
+- Rich Data Fetching Capabilities
+- Image Optimization
+- Much More
 
-## Ira carmina
+## File-based Routing
 
-Balatus veterumque me roganda fretumque Aiacis, ulta neu: erit? Equi ictu terrae
-fratris annis est este exanimis, nec tarda tumulumque, exierat et. Fortibus vix
-ne sensit late officio idem mentis **natus**.
+![Create routes via your file + folder structure](nextjs-file-based-routing.png)
 
-> Odere damna tenentibus nutrici *Erinyn*. Effugit venienti; est huius? Erat
-> lumina ius falsa quoque iacto quem Iunonis.
-
-Excedere plausu forsitan sororum causa et ostendunt divino sit alternare, inpune
-laquei, suam aethere: pro succedat! Post est substravit nomine: celeres lucum
-celat hoc dixit aliis quoque. Est patriae semper, multaque pectore quae
-corymbis, ante [terrae lecturum](http://etsatis.org/multifidasque-thersites)
-frigida. Se cauda disparibus sues dextraque, malo per vitamque damnans te saetas
-a fulvo, peregit hic pelagi illud. [Sibi rupit
-in](http://mirabileademptae.org/luctus-biformis) sperata nihil cunctaque sentit
-pavidamque nubes; oro negant, relicto.
+... More content ...
