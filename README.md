@@ -6,6 +6,6 @@ You can find it in VSCode -> Preferences -> Keyboard Shortcuts -> Search for "fo
 ## npm dependencies
 
 ```
-npm install react-markdown
+npm install react-markdown@6.0.3
 npm install gray-matter
 ```

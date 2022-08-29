@@ -1,13 +1,23 @@
 ---
 title: Getting Started with NextJS
 date: '2022-10-15'
-image: 'getting-started-with-nextjs.png'
+image: 'getting-started-nextjs.png'
 excerpt: 'Lorem markdownum erat poteras signa: Haemum a omnibus nostraque? Mactatos et
 honorem egesto, quaque me super pars animae; ut sanguis.'
 isFeatured: true
 ---
 
 # Lateantque gradibus
+
+## Opifex pedesque
+
+Cum utroque fiunt formamque necem aliena amor; amori mihi, hic Iolen. Leucada
+accusasse aurea. Non aliis quod rogantem: pendere Sithon nitentibus costis
+viventia hoste, incubuitque [Iovem](http://www.mater.org/telo), timentem laborem
+in.
+
+> Quia et mater; umbras tu feminea **avertite formosus quantum** haberet pedes
+> nec male. Fluctibus diripuit erat pro acuta relatu.
 
 ## Lupi tabellae derecti noxque spectacula terga in
 
@@ -27,16 +37,6 @@ quaque **sine tempore solis** rebus quoque queat et quique.
 > sensit. Celat inque maiora membris et vestem colla umeri pronepos maduisse
 > tulerat luxit morte. Nempe Avernales **inque**, immo ubi laetitiam atque
 > furores enim, nil?
-
-## Opifex pedesque
-
-Cum utroque fiunt formamque necem aliena amor; amori mihi, hic Iolen. Leucada
-accusasse aurea. Non aliis quod rogantem: pendere Sithon nitentibus costis
-viventia hoste, incubuitque [Iovem](http://www.mater.org/telo), timentem laborem
-in.
-
-> Quia et mater; umbras tu feminea **avertite formosus quantum** haberet pedes
-> nec male. Fluctibus diripuit erat pro acuta relatu.
 
 ## Ira carmina
 
