@@ -1,4 +1,5 @@
 import PostHeader from "./post-header";
+import classes from "./post-content.module.css"
 
 const DUMMY_POST = {
   slug: "getting-started-with-nextjs",
