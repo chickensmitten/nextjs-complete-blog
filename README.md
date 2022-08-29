@@ -9,4 +9,5 @@ You can find it in VSCode -> Preferences -> Keyboard Shortcuts -> Search for "fo
 npm install react-markdown@6.0.3
 npm install gray-matter
 npm install react-syntax-highlighter
+npm install mongodb
 ```
