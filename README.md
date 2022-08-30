@@ -16,6 +16,8 @@ npm install mongodb
 - `next build` requires node JS.
 - `next export` will only deploy to static form.
 
+use `npm start` after `npm run build`. It will be much faster than `npm run dev`, cause the deployed files are much faster.
+
 Deployment Steps & Considerations
 1. Page metadata, optimised code, remove useless dependencies
 2. Setup proper environment variables
