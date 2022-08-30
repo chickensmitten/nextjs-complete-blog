@@ -22,4 +22,5 @@ Deployment Steps & Considerations
 1. Page metadata, optimised code, remove useless dependencies
 2. Setup proper environment variables
 3. Test build locally or in remote server
-4. Deploy!
+4. `npm run build`
+5. Deploy!
