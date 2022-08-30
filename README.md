@@ -11,3 +11,13 @@ npm install gray-matter
 npm install react-syntax-highlighter
 npm install mongodb
 ```
+
+## Deployment Checklist
+- `next build` requires node JS.
+- `next export` will only deploy to static form.
+
+Deployment Steps & Considerations
+1. Page metadata, optimised code, remove useless dependencies
+2. Setup proper environment variables
+3. Test build locally or in remote server
+4. Deploy!
