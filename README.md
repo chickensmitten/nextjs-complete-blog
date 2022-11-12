@@ -1,6 +1,6 @@
 # Complete Next JS Blog
 
-Shift + Option + F to instant format the code.
+Shift + Option + F to instant format the code with Prettier in VS Code
 You can find it in VSCode -> Preferences -> Keyboard Shortcuts -> Search for "format documents"
 
 ## npm dependencies
